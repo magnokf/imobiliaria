@@ -161,6 +161,5 @@ DerivedData/
 ## Gcc Patch
 /*.gcno
 
-backend/*
-frontend/*
+
 
