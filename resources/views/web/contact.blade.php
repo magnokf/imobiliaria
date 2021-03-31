@@ -42,13 +42,13 @@
             <div class="col-12 col-md-4">
                 <h2 class="icon-envelope">Por E-mail</h2>
                 <p>Nossos atendentes irão entrar em contato com você assim que possível.</p>
-                <p class="pt-2"><a href="mailto:contato@laradev.com.br" class="text-front">contato@laradev.com.br</a></p>
+                <p class="pt-2"><a href="mailto:admin@bestdmrsolutions.com" class="text-front">admin@bestdmrsolutions.com</a></p>
             </div>
 
             <div class="col-12 col-md-4">
                 <h2 class="icon-phone">Por Telefone</h2>
                 <p>Estamos disponíveis nos números abaixo no horário comercial.</p>
-                <p class="pt-2 text-front">+55 (48) 3322-1234</p>
+                <p class="pt-2 text-front">+55 (21) 98243-6914</p>
             </div>
 
             <div class="col-12 col-md-4">
